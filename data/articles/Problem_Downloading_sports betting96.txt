@@ -1,0 +1,2 @@
+Error: Article `download()` failed with 403 Client Error: Max restarts limit reached for url: https://www.forbes.com/sites/christianred/2023/02/08/pete-rose-says-hopes-of-reinstatement-and-cooperstown-plaque-have-greatly-diminished/ on URL https://www.forbes.com/sites/christianred/2023/02/08/pete-rose-says-hopes-of-reinstatement-and-cooperstown-plaque-have-greatly-diminished/
+Problem URL: https://www.forbes.com/sites/christianred/2023/02/08/pete-rose-says-hopes-of-reinstatement-and-cooperstown-plaque-have-greatly-diminished/

@@ -1,0 +1,23 @@
+Sports fashion retailer JD Sports has confirmed miscreants broke into a system that contained data on a whopping 10 million customers, but no payment information was among the mix.
+
+In a post to investors this morning, the London Stock Exchange-listed business said the intrusion related to infrastructure that housed data for online orders from sub-brands including JD, Size? Millets, Blacks, Scotts and MilletSport between November 2018 and October 2020.
+
+The data accessed consisted of customer name, billing address, delivery address, phone number, order details and the final four digits of payment cards "of approximately 10 million unique customers."
+
+The company does "not hold full payment card details" and said that it has "no reason to believe that account passwords were accessed."
+
+As is customary in such incidents, JD Sports has contacted the relevant authorities such as the Information Commissioner's Office and says it has enlisted the help of "leading cyber security experts."
+
+The chain has stores across Europe, with some operating in North America and Canada. It also operates some footwear brands including Go Outdoors and Shoe Palace.
+
+"We want to apologize to those customers who may have been affected by this incident," said Neil Greenhalgh, chief financial officer at JD Sports. "We are advising them to be vigilant about potential scam emails, calls and texts and providing details on now to report these."
+
+He added: "We are continuing with a full review of our cyber security in partnership with external specialists following this incident. Protecting that data of our customers is an absolute priority for JS."
+
+We asked JD how the intruder was able to gain entry, how long they were inside and whether they've had contact with the perpetrators. The retailer has written to customers but the letters, seen by us, contain pretty much the same information that was posted to investors.
+
+A spokesperson at the ICO told us: "We have been made aware of a cyber incident involving the retailer JD Sports and we are assessing the information provided."
+
+John Davis, UK and Ireland director for the SANS Institute, reckons cybercriminals are "leveling up" and their "attacks are more prevalent, more sophisticated and harder to detect."
+
+"Brand reputations and relationships with customers are on the line," he added. "Customers will reward businesses who can persuade them they are best equipped to manage their data." ®

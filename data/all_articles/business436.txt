@@ -1,0 +1,75 @@
+Google unveiled a beta version of its “Privacy Sandbox” for Android Tuesday, part of a years-long effort to transform the business of the internet and make it harder for companies to feast on the buffet that is your personal data. Paradoxically, Google says the goal is to track everything you do online in a way that’s better for your privacy.
+
+“Building on our web efforts, we’re developing solutions for digital advertising that limit user data sharing and don’t rely on cross-app identifiers,” said Anthony Chavez, vice president of product management for Google’s Privacy Sandbox initiative, in a blog post. “Over the past year, we’ve worked closely with the industry to gather feedback and begin testing these new technologies. Today, we’re entering the next phase of this initiative, rolling out the first Beta for the Privacy Sandbox on Android to eligible devices.”
+
+
+
+Privacy Sandbox a set of new targeted advertising tools that let companies make money on your data without ever seeing that data for themselves. Google promises this is much better for your privacy. The changes getting all the attention are coming to Google Chrome, where the company promises it will kill third-party cookies, the primary way companies (including Google) have tracked you for thirty years. But the updates Google plans for Android are just as important.
+
+
+
+Advertisement
+
+The new beta test rolls out first to a “small percentage” of Android 13 devices and will expand over time. You’ll get a notification if you’re selected, with the option to opt in or out as your little heart desires. But users aren’t the only ones who get to have fun, the beta is available to app developers to test as well.
+
+
+
+How does Google’s Privacy Sandbox on Android work?
+
+Right now, anyone who wants your data can just slurp it up, but Privacy Sandbox for Android changes that. Sort of. With Privacy Sandbox for Android, your phone’s operating system is going to keep on tracking you. But! The data it collects will stay on your device. No one ever gets a copy, not even Google. Instead, your phone will analyze the data it collects, and do things like assign you into various interest categories, say, “sports fan,” “guy who likes blue shirts” or “journalist at Gizmodo who writes increasingly boring articles about data.”
+
+
+
+Companies get to leverage those insights for all the little advertising things they like to do, but they don’t get to see the underlying data. In other words, you’re still going to get exploited for targeted advertising, but there will be less of your information floating around in the process. The advantage for users is that companies will have a harder time learning about everything you do on apps and websites they don’t own.
+
+It’s a significant and risky move for Google. The company is bending over backwards to make these changes without giving itself a competitive advantage, which would enrage the anti-monopoly regulators who are already taking legal action against the company.
+
+
+
+Advertisement
+
+It must be nice to be such a powerful company that you get to make rules for all of your competitors. But don’t worry, because Google says it is not a monopoly, and it’s ability dictate the terms of the web shouldn’t change your opinion about that. To stress how un-anti-competitive this, Google posted a long list of quotes from other ad tech companies who swear they are thrilled about all of this. But even some experts who aren’t helping Google out see Privacy Sandbox as a positive.
+
+
+
+“I think the Privacy Sandbox for Android is the right way to approach a tectonic platform privacy shift,” said Eric Seufert, an ad industry analyst and author of the ad tech blog Mobile Dev Memo. “It’s collaborative, with tools that are designed to maintain as much efficiency in measurement and targeting as possible while also abstracting user-level data into aggregates and large, differentially-private yet relevant audiences.”
+
+Advertisement
+
+I just explained all of this to an unfortunate coworker who asked what I was writing about. Her response was basically “it sounds like my phone is just going to keep spying on me.” Correct. Privacy Sandbox is just more data collection. It’s also important to note that this isn’t going to shut off the flow of data entirely. There are lots of other companies working on lots of other ways to track you that will get around the privacy moves Google has planned.
+
+However, to be fair to our friends at Google, this is all very different from the status quo, and it’s an improvement for your privacy. You know what would be way better? If companies just stopped tracking you. But Google, a company that made $283 billion by tracking you last year, isn’t going to do that. So I guess we take what we can get.
+
+Advertisement
+
+“Privacy Sandbox on Android is going to be a win for Android users in some important ways,” said Paul Bannister, chief strategy officer at the ad tech company Cafe Media, which is heavily invested in unpacking Google’s Privacy Sandbox moves. Bannister said you have to draw a distinction between what Google, the corporation, knows, versus what Google, the operating system on your phone, knows. “In some ways Google the corporate entity is losing access to information through Privacy Sandbox, because far less information goes back to the mothership.”
+
+But how is the actual tech of Privacy Sandbox for Android different than what came before?
+
+Want to get even more technical? Well why didn’t you say so! Privacy Sandbox for Android has four main components—SDK Runtime, Topics, FLEDGE on Android, and Attribution Reporting. I considered rewriting those words in French to illustrate how meaningless they are to the average person, but I’m pretty sure my editor would delete it.
+
+Advertisement
+
+Let’s start with SDK Runtime. I swear this is interesting. An SDK, or software development kit, is a block of code that some other company makes you can shove in your app. They do things like make money by putting the Facebook ad network in your app, or sending spy data to the Spy Corporation™ in exchange for cash. A big problem with SDKs is they often do all kinds of sneaky things to get around the privacy protections built into your phone. The new SDK Runtime feature is going to make all SDK’s run in a siloed part of your phone’s operating system instead of within apps themselves. This is a very big deal! It will give Google more oversight over illicit data collection, and it might even make your apps run faster.
+
+Second are Topics and FLEDGE. (I really hate the way that acronym stands out on the page. Google please change this, I’m going to have to type it so many times.) These two are similar. With Topics , your phone will analyze which apps you use, and then let advertisers know what kind of apps you like, without revealing who you are or the names of the apps. FLEDGE is sort of like that, except your apps get to tag you with stuff themselves. They can say things like “this is that guy who loves sneaker shopping apps.” Then, that app developer can advertise related sneaker stuff to you later. Google is doing the exact same Topics and FLEDGE stuff with websites on Google Chrome
+
+Advertisement
+
+Finally, the boring one, Attribution Reporting (the other three were exciting, duh). Attribution Reporting is basically a system that will let advertisers measure how well their ads are working. Essentially, this feature will track the people who see an ad and watch whether they go buy whatever the product or service is. The Privacy Sandbox system will provide this information to advertisers in a way that’s useful, but doesn’t reveal information about individual people. This is actually not boring, it’s technically impressive and incredibly important to the ad industry.
+
+What’s going on with digital privacy as Google launches this feature?
+
+After reading all of that, you’ve been a very good Gizmodo audience member, so as a reward, it’s time for a brief history lesson about the last couple of years of privacy moves.
+
+Advertisement
+
+Apple launched a feature similar to the Android Privacy Sandbox back in 2021 with a feature called App Tracking Transparency. If you’re an iPhone user, you’ve seen your apps begging you to give them permission to track you. Apple’s setting is a lot more powerful, in a sense. If you say no, your apps just aren’t supposed to track you, period, and Apple didn’t seem even the slightest bit concerned about who would be harmed by this. (Not that you should feel bad for the ad tech industry, I’m just saying it was extremely disruptive). Conveniently, Apple still does its own tracking, even when it promises not to, research has shown, and the company created entirely separate privacy settings for its own apps with much gentler language.
+
+Google took a much gentler approach. That same year, Google announced that it was going to kill the third-party cookie, the primary way that companies (including Google) have spied on everything you do on the internet. But Google promised to introduce something in place of those cookies that still lets companies harness data to make lots of cool money. All the somethings that Google is introducing are referred to as Privacy Sandbox, and Privacy Sandbox for Android is part of it. The other part is all happening in Google Chrome. Now you are very well informed about Privacy Sandbox.
+
+Advertisement
+
+Google is doing this for three reasons. One, because Google is your friend and it loves you. Two, Google makes… how much was it? Oh right, $283 billion in a bad year by harnessing your data, so it’s not going to kill cookies without a replacement. And three, because governments all over the world are dying to lay the anti-trust smackdown on Google, so the company has to be very careful not to harm its competition in an obviously self-privileging way.
+
+“I think the main advantage that Google will have is that they’re the most leaned into this. But the other companies that equally lean in and build their systems to adapt to the tech are going to have an advantage too,” Bannister said. “Anyone who leans back says screw Google and everyone else and refuses to work on this is in trouble. You’re ignoring the rising tide.”

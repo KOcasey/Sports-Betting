@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LONDON, Jan 26 (Reuters) - A Russia-based hacking group named Cold River is behind an expansive and ongoing information-gathering campaign that has struck various targets in government, politics, academia, defence, journalism, and activism, Britain said on Thursday.
+
+In an advisory, the National Cyber Security Centre (NCSC), part of Britain's GCHQ eavesdropping intelligence agency, said Cold River impersonates people around its targets by using fake email addresses and social media profiles.
+
+"There is often some correspondence between attacker and target, sometimes over an extended period, as the attacker builds rapport," the advisory said.
+
+Asked to comment, Kremlin spokesman Dmitry Peskov said: "We don't know anything about that."
+
+The advisory did not directly attribute the digital attacks to the Russian government.
+
+Cold River hackers encourage the target to click on a malicious link that tricks them into entering their login credentials on a website controlled by the group, the advisory said.
+
+Reuters reported that Cold River, also known as "Callisto" and "Seaborgium", targeted three nuclear research laboratories in the United States last summer and published private emails from former British spymaster Richard Dearlove in May.
+
+Russia's Foreign Ministry criticised the nuclear labs story, calling it anti-Russian propaganda.
+
+A second, Iran-based, group known as Charming Kitten has deployed the same "spear-phishing" techniques to gather information, according to the NCSC. Iran's mission to the United Nations in New York said the Iranian government had no knowledge of the group.
+
+Since Russia's invasion of Ukraine, Cold River has escalated its hacking campaign against Kyiv's allies, cybersecurity researchers and western government officials told Reuters.
+
+Western officials say the Russian government is a global leader in hacking and uses cyber-espionage against foreign governments and industries to seek a competitive advantage.
+
+Moscow has consistently denied that it carries out hacking operations.
+
+Reporting by James Pearson Editing by Chris Sanders, Daniel Flynn and John Stonestreet
+
+
+
+
+
+
+
+
+
+
+
+Our Standards: The Thomson Reuters Trust Principles.

@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SINGAPORE/LONDON, Jan 31 (Reuters) - Bankrupt crypto lender Celsius Network used investor money and customer deposits to prop up its own token while two of its founders made millions of dollars from token sales, a U.S. court-ordered examiner report released on Tuesday showed.
+
+Crypto lenders such as Celsius boomed during the COVID-19 pandemic, drawing customers by promising high interest rates on their cryptocurrency deposits. New Jersey-based Celsius filed for U.S. bankruptcy in July after freezing customer withdrawals.
+
+U.S. Bankruptcy Judge Martin Glenn, who is overseeing the Chapter 11 case, in September appointed former prosecutor Shoba Pillay as an independent examiner.
+
+She investigated Celsius customers' claims that the company was a Ponzi scheme and also reported on its handling of cryptocurrency deposits.
+
+The examiner's report did not conclude that Celsius was a Ponzi scheme, but it laid out evidence that may lead Glenn to reach that conclusion.
+
+Celsius never generated enough profit to pay the high rewards promised to customers, and Celsius used new customer deposits to fund customer withdrawal requests in June 2022 and perhaps on other occasions, the examiner found.
+
+Celsius Coin Deployment Specialist Dean Tappen said over company chat that he should be called a "Ponzi consultant," and later described Celsius' practice of using customer stablecoins to repurchase its own proprietary tokens as "very Ponzi-like," according to the report. Tappen told the examiner that the "Ponzi consultant" comment was an attempt at a "poor joke" and that he did not believe Celsius was a Ponzi scheme.
+
+Celsius did not immediately respond to requests for comment on the examiner's report. The company said in a Tuesday statement that it cooperated with the examiner's investigation and that it looked forward to working with creditors on a path out of bankruptcy.
+
+Celsius gathered crypto deposits from retail customers and invested them in the equivalent of the wholesale crypto market.
+
+Celsius told customers that its own crypto token, called "CEL," would be used to pay customer rewards, but it concealed the extent to which it propped up CEL's price by re-purchasing the token on secondary markets, the report said.
+
+Starting in 2020, Celsius went on a "buying spree" to push the price of CEL "higher and higher", the report said. Celsius spent at least $558 million buying its token.
+
+By 2022, employees routinely said that the token was "worthless" and questioned whether anyone other that Celsius would buy it, the report said.
+
+"The business model Celsius advertised and sold to its customers was not the business that Celsius actually operated," the report said. For years, Celsius promised more funds to customers as rewards than it was able to generate in revenues, the report said. Between 2018 and June 30, 2022 it had obligations to customers of $1.36 billion more than the net revenue it generated from customer deposits, the report added.
+
+The CEL token's price gains benefited insiders who held most of it, the report said. Celsius founder Alex Mashinsky, who is facing fraud allegations in the United States and stepped down as CEO in September, realised at least $68.7 million from selling CEL tokens between 2018 and the bankruptcy filing. Co-founder Daniel Leon sold at least $9.7 million worth of the token, the report said.
+
+According to the report, Mashinsky repeatedly made false claims to customers in video broadcasts and tweets. Celsius executives kept an internal list of his incorrect statements, sometimes editing them out of video recordings without informing the thousands of audience members who heard the misstatements in real time, the examiner found.
+
+Reuters was unable to reach Mashinsky and Leon for comment. A lawyer for Mashinsky has said previously that his client denies the allegations and looks forward to vigorously defending himself in court.
+
+Reporting by Rae Wee, Elizabeth Howcroft and Alun John, additional reporting by Tom Westbrook and Dietrich Knauth; Editing by Clarence Fernandez, Louise Heavens, Alexia Garamfalvi and Cynthia Osterman
+
+
+
+
+
+
+
+
+
+
+
+Our Standards: The Thomson Reuters Trust Principles.

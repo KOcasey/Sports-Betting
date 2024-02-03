@@ -1,0 +1,33 @@
+Cricket lovers by their nature are probably more inclined than most to appreciate things that happen at a gentle pace, sporting encounters – and perhaps also stories – that unfold leisurely over an extended period rather than with great dramatic swoops and squalls. And, as followers of perhaps the most statistically dense of sports, more inclined also to appreciate the importance of data.
+
+The happy news is that the pursuit of improved control of players’ data rights by the Professional Cricketers’ Association, which became public with the announcement of their partnership with the Global Sports Data and Technology Group (GSDT) last week, looks likely to gently scratch both those itches.
+
+Last September, GSDT launched a lawsuit, which has now been joined by more than 1,400 professional footballers, over the use of their performance data by gaming and bookmaking companies, seeking an eyebrow-raising £500m in damages. Their association with the PCA seems unlikely, at least in the short-term, to give cricketing eyebrows any unusual exercise.
+
+“There’s lots of talk around litigation, but that’s not a strategy we’re really pursuing,” says Rich Hudson, the PCA’s head of cricket operations, who has led their work on the issue. “That’s not to say we don’t reserve the right to do that at some point. It’s more than the value of lawsuits, it’s the ability to say: ‘That’s mine and I can say yes or no to people using it.’ That’s the fundamental principle.”
+
+Not only are they not pursuing litigation, they are also not likely to take action against the kind of consumer-facing data providers that many cricket fans regularly use. “I don’t think we’ll see a Guardian reader’s experience changing,” Hudson says. “This doesn’t mean you’re going to have to pay to use Statsguru.”
+
+Best not to get too comfortable, though. Jason Dunlop, a data technologist who co-founded GSDT along with the former Cardiff and Leyton Orient manager Russell Slade, says all the classic cricket statistics fall under existing data protection law. “We’re talking about any personal data – tracking and performance data is the classic, so in cricket it’s runs scored, how fast, where they score, all that stuff. UK law is quite straightforward: any piece of data attached to an identifiable individual is classed as personal data.
+
+“So if a company is making income from players’ data then this will affect them. Some organisations can claim journalistic exemption, but where they use large-scale data in our view that falls outside that defence.”
+
+Just as GDPR laws forced companies to seek customers’ permission before they could use their data – hence having to accept cookies when you land on a new website – the belief is that cricketers should be able to control who uses data about them. “Headlines about £800m lawsuits are easy to write, but we’re [initially] looking for players to be able to say they’re happy for one organisation to use their data but potentially not another,” Hudson says.
+
+“We’ve got numerous players who might not be happy for the betting industry to use their data, because of their religious beliefs or a family member’s experience. So how can players have control over who uses their data?”
+
+A megabucks lawsuit does remain a possibility: “We all get into asking what the potential value of this is for our members. I’d be lying if I said that wasn’t one of the reasons we explored the conversation.”
+
+Three years have passed since the PCA started considering player data rights, during Tony Irish’s brief spell as chief executive. It formed part of their presentation to professional players before the start of the 2021 season and progress has continued slowly since. They are not Bazballing this. Players can expect another update in March and it is unlikely to be their last.
+
+“It probably ran for the majority of 2020, just as a bubbling topic,” Hudson says. “We spoke to players in March 2021 about the principles of what we’re looking to do with collective rights, with data one part of that, then again in March 2022 to outline who we were working with and what our steps were. Then we engaged with GSDT at the back end of 2022. It’s a topic that’s sat within our organisation for a number of years, but has felt it’s gathered pace in the last 12 months.”
+
+skip past newsletter promotion Sign up to The Spin Free weekly newsletter Subscribe to our cricket newsletter for our writers' thoughts on the biggest stories and a review of the week’s action Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+Eventually, players should be able to easily control which industries, and which individual companies, have access to their data, perhaps using an app on their phones. Dunlop hopes this will happen by the end of this year.
+
+The PCA has also engaged with the ECB, in the hope progress could be accelerated if cricket’s major institutions work together. “Our aim is to be pushing with them to see if we can take a collaborative approach that is fair and reasonable for everyone,” Hudson says. “They’ve not been dismissive, they have engaged, but we haven’t made constructive progress. The focus for the early part of this year is to move that forward.”
+
+Last week’s announcement was prompted not by any genuine novelty – the PCA and GSDT have been working together for several months – but by a desire to push the ECB towards greater cooperation.
+
+Though countries are governed by different data laws, the PCA is also in contact with another national association in the shape of Cricket Australia, who are following developments with interest. “Fundamentally, the debate comes back to, do the players own the data?” Hudson says. “I’m sure there’ll be stakeholders who feel they don’t. Our view is obviously that they do. We’re just trying to come up with solutions.”

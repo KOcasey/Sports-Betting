@@ -1,0 +1,39 @@
+Update (Jan 24, 5:15 pm ET): Google publishes full response to lawsuit.
+
+What you need to know
+
+The US Justice Department has filed a new lawsuit against Google.
+
+The suit alleges that by using anti-competitive practices, Google maintains dominance in the digital ads market.
+
+The suit aims to force Google to divest its ad business.
+
+Google has issued a response, saying the lawsuit is "unfounded" and would undo years of innovation.
+
+The U.S. Justice Department filed a lawsuit against Google on Tuesday, its second filing against the tech giant in three years. The suit focuses on Google's dominance in the digital ad market and the company's methods of maintaining its lead.
+
+A copy of the complaint was obtained by CNN and states that Google has "used anticompetitive, exclusionary, and unlawful means" to squash the competition and place itself within all aspects of the digital advertising market.
+
+The complaint alleges that Google uses its tactics to not only eliminate or "neutralize" the competition but also to make it so that advertisers are essentially forced to use Google's product. Ads make up most of Google's revenue and accounted for nearly $55 billion of its total $69 billion revenue in Q3 2022.
+
+"Whenever Google's customers and competitors responded with innovation that threatened Google's stranglehold over any one of these ad tech tools, Google's anticompetitive response has been swift and effective," the complaint reads. "Each time a threat has emerged, Google has used its market power in one or more of these ad tech tools to quash the threat. The result: Google's plan for durable, industry-wide dominance has succeeded."
+
+A lawsuit from the DOJ became more likely over the summer after a report indicated that the DOJ would reject Google's proposal to split its ad tech business into a separate firm under Alphabet in an attempt to address regulator concerns. The newly filed lawsuit calls for Google to completely divest its ad business — including its Ad Manager suite. Google told Android Central in July that it had no plans to give up its business.
+
+In response to the newly filed complaint, a Google representative told Android Central that the Justice Department's argument is flawed.
+
+"Today's lawsuit from the DOJ attempts to pick winners and losers in the highly competitive advertising technology sector. It largely duplicates an unfounded lawsuit (opens in new tab) by the Texas Attorney General, much of which was recently dismissed (opens in new tab) by a federal court. DOJ is doubling down on a flawed argument that would slow innovation, raise advertising fees, and make it harder for thousands of small businesses and publishers to grow."
+
+The Justice Department filed its first lawsuit against Google in 2020 under the Trump administration, alleging that Google maintains an unfair dominance over search through "exclusionary and interlocking business agreements." This case is still in progress.
+
+The DOJ filed the new lawsuit alongside eight other states, including California, Colorado, Virginia, Tenessee, Connecticut, New Jersey, Rhode Island, and New York.
+
+Google has issued a more lengthy response to the Justice Department's lawsuit in the form of a blog post. Dan Taylor, Google's VP of global ads, says that the lawsuit, which seeks to divest Google of its ad business, aims to undo two acquisitions that were already reviewed and approved over a decade ago.
+
+Taylor also puts other large tech companies in the spotlight, including Microsoft, which landed an advertising deal with Netflix after successfully acquiring Xandr. Other companies named to have a considerable presence in the digital ad space include Apple, TikTok, Amazon, Disney, and more.
+
+"[The DOJ] shouldn’t force companies to reverse 15-year-old investments that they have nurtured and worked hard to make successful, especially when those investments were already reviewed by regulators and allowed to proceed."
+
+"We've spent years building and investing in our advertising technology business to support a vibrant, open web. We will vigorously contest attempts to break tools that are working for publishers, advertisers, and people across America."
+
+You can read the full response on Google's blog post.

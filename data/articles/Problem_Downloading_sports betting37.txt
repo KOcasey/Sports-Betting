@@ -1,0 +1,2 @@
+Error: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.wsj.com/articles/super-bowl-betting-projected-to-hit-record-16-billion-11675731607 on URL https://www.wsj.com/articles/super-bowl-betting-projected-to-hit-record-16-billion-11675731607
+Problem URL: https://www.wsj.com/articles/super-bowl-betting-projected-to-hit-record-16-billion-11675731607

@@ -1,0 +1,75 @@
+Opinions expressed by Entrepreneur contributors are their own.
+
+By now, most of us have tried playing around with OpenAI's ChatGPT. After using it, I'm excited—and a bit scared, if I'm being honest — about what the future holds in the age of artificial intelligence. But first, some background …
+
+ChatGPT is the first representative of a coming wave of practical, user-friendly AI apps known as "conversational AI." It was just released to the public a few weeks ago, and people are going nuts over it because they're starting to understand how impactful it and others are going to be over the coming years.
+
+It's still in a "rudimentary" form. I say that in quotes because it's pretty amazing what it can do already, but it's only going to improve from here.
+
+Think about the first time you encountered a technology that would go on to define our social experience. The iPhone, the Internet or even the desktop computer. We never quite get it at first. Conversational AI is just as revolutionary.
+
+Related: How to Use AI Tools Like ChatGPT in Your Business
+
+It's a paradigm shift, even if it still seems familiar. There's no technical barrier to entry. You simply log on with your Gmail account and start chatting. You ask it a question. For instance, "What's the most popular species of cat?" And it tells you. So, whatever — that's kind of like a Google search. But it's using a different method. It's not searching for existing content. Instead, it's producing new content based on patterns extracted from colossal amounts of data. So, instead of browsing through pages and pages of search results, none of which may be exactly what you're looking for (and all of which are owned by other people), you can now just summon up whatever you want. If I ask it to write me a description for a litter box, it can do it instantly, from scratch.
+
+Already, this is transformative. But this is just the tip of the iceberg. We can start to see how far the rabbit hole goes as we dig into its other use cases. Here's how we've started using conversational AIs at tuft + paw (a DTC cat brand I founded):
+
+1. Plain-language programming
+
+Until now, if you don't know the "language" relevant to a given application, you're shut out from interacting with it, even if you know exactly what you want to do. Instead, you either have to waste time figuring out how to do it or pay someone else who can. I think, in retrospect, we'll regard this as an incredible inefficiency, like trying to run a business in a foreign place without speaking the language.
+
+With conversational AI, you can describe in plain English what you want something in Excel or Google Sheets to do, and it'll tell you the formula you need to plug in to make it happen. Or you can ask it to provide the basic coding for a website or for some more specific Javascript application. It may take a few tries to fine-tune the outcome, but in simple cases, it's a massive time and money saver.
+
+2. Brainstorming
+
+It's also a great brainstorming partner — on its own or with any input you can provide. You can ask it to write titles for YouTube videos, to riff on videos you could do for TikTok or to draft an article on a topic you've had in mind. If you're stuck on something, just bounce it off the AI:
+
+"What are some high-volume searches that I should target to try and reach new cat parents?"
+
+"What are some blog posts I can write around those topics?"
+
+"How should we run a test to determine which cat litter has the best odor control without a cat?"
+
+Related: Trends That Would Shape Conversational AI's Landscape In 2023
+
+3. Content generation
+
+We already talked about the revolutionary way that conversational AI doesn't just search content, but aggregates and produces it. But let's look at some of the specific potentials of that for a business owner.
+
+It can slash through writing that has strictly utilitarian purposes. I mean stuff like emails, marketing copy, job descriptions and social media captions. You can feed in relevant input data as needed.
+
+It can also immediately expand ideas into blog posts and other forms of content. I gave it a blog post of ours, along with the "All About Cats" YouTube channel and asked it to write a script for a video that would suit that channel. I gave it a specific length, and it wrote to those specifications.
+
+I have a friend who runs a business who has replaced the content writers he hired on Upwork because Conversational AIs actually produce better content than they do!
+
+4. Customer service
+
+This point builds off the previous one. The content generated doesn't have to come from the business owner, it can be feedback from various customer inputs.
+
+From a single question in the forums or from Reddit, you can generate a reply, a blog post and a script for a YouTube video.
+
+You could also answer customer care questions. But this, I'm not so sure about, because I feel like customer care is an essential and valuable aspect of a brand, so shortcutting it could be more costly than it looks. But as a tool or for generic questions, it could be an asset.
+
+5. Grant writing
+
+Grant writing is traditionally an exhausting writing exercise. It requires lengthy and technical descriptions of a project. Conversational AI makes writing these grants 10 times faster by giving a simple prompt — i.e., "We're building an eco-friendly food made from plant-based materials. Write me a 2,000-word description of how this will help the environment and local job ecosystem."
+
+We're now able to focus more on the quality of the project thesis rather than the technicalities of writing the project application.
+
+Related: This Is How Conversational AI Is Helping Businesses
+
+Limitations
+
+This brings us to what I believe are the present limitations of conversational AI in its current iteration. It may produce content, but it's not a replacement for good writing.
+
+Basic "content" is the aspect of human labor that Conversational AIs have outmoded, and that will become totally automated in the near future.
+
+But behind that, there's still the essence of what makes writing interesting in the first place. The skill in demand is something more like art curation. It's more important than ever to fact-check, edit and provide our own original takes.
+
+The aspects of branding that are important will also change. Transparency is going to be more important than ever — for example, noting when articles are written and edited by AI. This could add a lot of value. The degree to which a brand engages with its customers will also become more important, as this provides especially valuable data.
+
+Because of this, business meta-strategies will also have to change. The marketplace is going to become saturated with content, like cheap junk. Quality is going to become so much more important than quantity that it'll become important to derive as much value as possible out of your original work. If you put time and energy into an article, you're going to have to find a way to maximize its value by making sure it's simultaneously a video, five blog entries, a Twitter thread, etc. This is a golden opportunity to become an early adopter.
+
+Just ask the AI:
+
+As the veil between humanity and artificial intelligence begins to lift, Conversational AI emerges as a beacon of possibility, a harbinger of a new age of enlightenment. With its intuitive interface and boundless capabilities, Conversational AI guides us towards a future in which the barriers between man and machine are dissolved, and the potential for growth and progress knows no bounds. Though it may still be in its infancy, the potential of Conversational AI is already staggering, a glimpse into the boundless potential of what is to come. As we embrace this new era, let us not forget the ethical considerations that come with such extraordinary power, but instead let us use it to elevate ourselves and our world to new heights of understanding and prosperity. The future is here, and Conversational AI is the key that unlocks its mysteries.

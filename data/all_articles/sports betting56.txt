@@ -1,0 +1,37 @@
+There’s a different kind of post-game analysis when it comes to Super Bowl advertising — the kind media buyers and planners do to find out if the ads actually worked.
+
+This year, measurement companies are drilling down to determine advertising attributes – from economic focus to apps mentioned – to divine how content performed during the Big Game. Based on a breakdown from tracking service AdImpact that monitored audience engagement, Super Bowl LVII on Fox on Feb. 12 seemed to deliver solid ratings.
+
+Customer experience platform Disqo also analyzed 62 of the ads in the game to understand each ad’s impact, ranked by ad reactions and attitude change among consumers. This helps advertisers focus on the nuances of what worked well for consumers, said Patrick Egan, Disqo’s director of research and insights.
+
+“Most marketing organizations have a host of KPIs that they need to move, so single-metric and single-method research is not enough,” Egan told Digiday.
+
+Focusing on ad impact and brand lift
+
+In its third annual Big Game report, Disqo used zero-party brand experience data from U.S. consumers to rate the top 10 ads in 2023, according to a blend of their creative appeal and brand lift delivered. Marketers may start to leverage these metrics as they make investments in future big tentpole TV events. Based on the results provided to Digiday, the top overall ads were:
+
+Indiana Jones: Dial of Destiny (movie trailer) WeatherTech (auto supplies) Popcorners (snack food) Farmer’s Dog (dog food) Creed 3 (movie trailer) Marvel’s Guardian of the Galaxy, Vol. 3 (movie trailer) Air – Courting a Legend (movie trailer) Doritos Sweet & Tangy BBQ (snack food) Heineken 0.0 (beer) He Gets Us — Childlike (religious/cultural)
+
+“Creative appeal helps brands know if their ads are resonating from a cognitive and emotional angle, while brand lift helps inform whether these ads are driving people into the sales funnel,” Egan explained. “Knowing that consumers love an ad based on single-metric news polls is not a good way to justify Big Game ad spend.”
+
+When scored by brand lift, the Fanduel’s ad featuring Rob Gronkowski, Draft Kings showcasing a number of celebrities and film trailer “Creed 3” ranked as the top three ads. For the highest creative appeal, the “Indiana Jones: Dial of Destiny” trailer, Amazon’s ad featuring a rambunctious dog and WeatherTech’s pro-USA message ranked as the top three, respectively.
+
+“A lot of movie trailers did quite well, which isn’t really surprising. The sweet spot around high creative appeal and better brand lift tends to be entertainment shows and movies, and more niche products,” said Egan. “Celebrity’s not key to unlocking brand lift but it might be key to unlocking creative appeal.”
+
+Disqo reviewed some 15,000 consumers following the Super Bowl, and another 15,000 consumers were separately surveyed about their awareness of advertisers. A total of 34 ad attributes were studied, including the celebrity count, usage of non-human spokespeople and intended humor. That was used to calculate an ad’s brand lift by comparing brand awareness between exposed and matched control consumers, according to the company.
+
+Audience engagement breakdown
+
+As far as viewership, AdImpact reported some 124 million viewers, and tracked how people dipped in and out, from the national anthem and the kickoff through the halftime shows and the end of the game.
+
+By comparison, measurement company iSpot’s preliminary results showed the game drew an average minute audience of approximately 118.2 million viewers. The total household reach on linear and streaming on Fox and Fox Deportes was 59.9 million households, with an average of 48.3 million of them in the U.S., according to iSpot. The total across linear and streaming was 128.4 million viewers.
+
+“The Super Bowl represents an opportunity for brands to gain massive reach in a short amount of time in front of an audience that is looking to the ads as a source of entertainment,” said Cassandra Arora, CMO at iSpot. “This year, beyond verifying massive reach, our research found the ads drove high purchase intent as well, which gives brands strong signals for both brand and business impact.”
+
+(iSpot has annual contracts with 80% of advertisers in the SB this year.)
+
+Additionally, out-of-home viewers made a comeback and totaled an average minute audience of 16.4 million adult viewers, 18-plus, per Tunity Analytics (iSpot company). OOH audiences increased 32% from the previous Super Bowl as more consumers returned to restaurants and bars to watch the game.
+
+iSpot tracked a total of 59 brand ads and 22 promos from Fox advertising and the league, which delivered for 5.6 billion persons 18+ ad impressions during the game. Fox and Fox Deportes accounted for 64.1% of all ad deliveries on that day and 83.4% of all TV ad impressions compared to the other broadcast networks, according to iSpot.
+
+iSpot also found that more humor was used across Super Bowl ads this year – 72% of them “deployed humor” and was a record in the last 10 years, according to iSpot Creative Assessment. Five ads generated 100 million impressions, with The Farmer’s Dog’s “Forever” being the highest at 101.5 million linear household ad impressions.

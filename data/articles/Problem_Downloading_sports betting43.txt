@@ -1,0 +1,2 @@
+Error: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.si.com/college/2023/01/18/dayton-basketball-coach-anthony-grant-slams-gamblers-who-threaten-players on URL https://www.si.com/college/2023/01/18/dayton-basketball-coach-anthony-grant-slams-gamblers-who-threaten-players
+Problem URL: https://www.si.com/college/2023/01/18/dayton-basketball-coach-anthony-grant-slams-gamblers-who-threaten-players

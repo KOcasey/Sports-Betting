@@ -1,0 +1,57 @@
+I don’t know if we can pinpoint a moment at which 4K content became normalized — it sort of snuck up on us — but today 4K and 4K HDR content is not hard to come by. Netflix, Amazon, Disney +, HBO Max – they all have it, and plenty of it. So we’re starting to get used to it. We’re hungry for 4K and we expect it on our plate. This has a lot of folks wondering: Why is it so hard to get sports in 4K?
+
+Three years ago, I was fortunate enough to fly down to Florida to go behind the scenes with Fox Sports as it delivered the first-ever 4K HDR Super Bowl broadcast. Not only did I get to watch the Fox team do its live daytime broadcasts from South Beach, but I also got to go to roam around Hard Rock Stadium, where I had totally unfettered access to the stadium and all the cameras in it – as well as a massive broadcast compound. I got to go in every production truck, I saw every step of the production, from the cameras to the outbound feeds, and I got every question I asked answered by some of the top video production pros in the business. I learned so much while I was there.
+
+Among the things I learned was why so few sports broadcasts are in 4K – and even fewer are in HDR – and why they aren’t true 4K but are actually upscaled 1080p. I also learned why 4K isn’t really what we need to make our sports viewing experience at home better than it is now. But we’ll get to that. For now: Why are 4K sports so hard?
+
+4K bottlenecks
+
+We can sum up one of the most challenging issues with getting 4K sports as a series of bottlenecks. First off, 4K , which you can think of as four times 1080p HD, tends to take a lot of what’s challenging about broadcasting live sports in the first place, and multiply it by four.
+
+More pixels, more problems.
+
+First, off: cameras. Live sports broadcasts require a ton of cameras. At Super Bowl LIV, there were about 100 of them. Some of them were 4K , a very few of them were actually 8K, and some were tiny enough to fit into the end zone pylons. But deploying 80-plus 4K cameras? Man, that’s an expensive proposition.
+
+Still, the expense is only part of the challenge. Fox Sports is rich right? They can afford it, surely. OK, so let’s proceed under the presumption that the broadcaster could afford the cameras.
+
+We’ve now got some 80 4K cameras out there trying to send an absolutely massive amount of signal back to the production trucks. If a 1080p camera had one cable roughly the girth of a python running thousands of feet to a production area, a 4K camera will at least double that. And we will need miles, and miles, and miles of all that extra cable. That stuff is heavy. So we’re adding tons of weight to haul around, that’s a lot more gas, and we’re adding a bunch more labor to deploy all those extra cables. That all adds more expense, too.
+
+Many billions of dollars would need to be invested in upgraded equipment to make a native 4K broadcast a reality.
+
+Clearly, money is becoming a common thread already, but we’re just getting started.
+
+Once we rout those many miles of several hundred cables down to the broadcast trucks, we’ve got to plug them into something. For the sake of keeping things simple, we’ll call them consoles. These video consoles have a limited number of inputs. Let’s say the consoles have about 120 inputs. Now, if we’re running 1080p cameras, each of those cameras only needs one input to plug in. But for each 4K camera? They’ll have to take up four inputs. That means just 20 4K cameras will use up 80 inputs. You see where I’m going with this. Every 4K camera represents three 1080p cameras that can’t be used. There’s another bottleneck.
+
+The broadcaster then has to process a 4K video signal, which requires way more processing horsepower than 1080p. This means upgrading servers and adding more of them. Plus, they generate more heat, so we have to work harder to keep them cool. There’s another bottleneck.
+
+Then, assuming all of that could be done, the broadcaster still has to deliver the feed to all of its distribution partners, and not all of them can handle 4K , so they have to dumb the feed down anyway. The distribution network itself is a bit of a bottleneck too.
+
+I think you see where I’m going with this. It is a monumental undertaking. To do it right, many billions of dollars would need to be invested in upgraded equipment to make a native 4K broadcast a reality — and it would require a lot more work. What motivation do broadcasters have to do this? Maybe just do it out of the kindness of their hearts?
+
+No. You’re not going to not watch their sports broadcasts because they aren’t in 4K , are you? And even if broadcasters did want to foot the bill, they don’t have a way to recoup their expenses. It’s not as if they can charge a higher premium for ads just because they upped the video quality.
+
+But also, broadcasters don’t use their own production trucks. They rent them. So, take the onus for investing billions and put it on a third party with no guarantee they’d recoup their costs. Doesn’t sound likely, does it?
+
+Is native 4k even the answer?
+
+Clearly, there’s no financial incentive for broadcasters to make 4K sports the new standard. But that’s OK because native 4K isn’t the answer to getting better-looking sports at home anyway. The upconverted 1080p stuff broadcasters send out now — as they will for Super Bowl LVII — already looks great. And when HDR is added, that’s when things start looking really impressive. But if broadcasters wanted sports to look even better, they’d deliver the least compressed 1080p signal they could, in HDR , at 60 frames per second. Now that would be a feast for your eyes.
+
+If you were to see uncompressed 1080p HDR video next to compressed 4K HDR video, the less compressed, lower-resolution signal would be orders of magnitude better-looking than the compressed high-resolution signal at all but the largest of screen sizes.
+
+But delivering uncompressed 1080P video is no walk in the park, either. Getting high-bandwidth signals broadly deployed in homes all across the nation — or the world — is extremely challenging when bandwidth availability fluctuates so wildly from region to region. And not only that, but delivering an upconverted 1080p to 4K HDR-graded signal takes a lot of really hard work and no small amount of expense. That’s why we sometimes get it for huge events like the Super Bowl, the World Cup, and the Olympics. Really huge events that already have gobs of money flowing through them.
+
+For your average Sunday Night Football game? Your locally produced NBA game or MLB game? Sorry, no. Not anytime soon. Not at scale, anyway. I think we’ll see more and more as time goes on, but it’s not like someone is going to trip the floodgate and we’re going to get this tidal wave of 4K sports. And the 4K sports we do see won’t be that easy to get. We’ll have to get it through certain streaming apps. Maybe, occasionally, we’ll get one or two channels of it through cable or satellite.
+
+And let’s just hope the internet doesn’t break under the stress. Because already, we’ve seen that it can be really tough for streaming services to reliably deliver live sports.
+
+As I said, 4K sports is hard.
+
+Final thoughts
+
+For now, 4K HDR sports delivery will be limited to huge events. Super Bowl LVII will be available in 4K HDR through several providers, and you can even get it in 4K Dolby Vision from Comcast Xfinity.
+
+Eventually, we’ll get to a place where bandwidth, production equipment, and workflow align to allow more 4K sports broadcasts, but we need to be patient. For now, it’s too hard — and too expensive — to become the norm.
+
+Today's tech news, curated and condensed for your inbox Subscribe Check your inbox! Please provide a valid email address to continue. This email address is currently on file. If you are not receiving newsletters, please check your spam folder. Sorry, an error occurred during subscription. Please try again later.
+
+Editors' Recommendations

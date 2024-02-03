@@ -1,0 +1,15 @@
+On Twitter, Elon Musk is inescapable. Users logging in this week have found their feeds dominated by a stream of memes posted by the Twitter CEO after a change to the platform’s algorithm started to boost his tweets, apparently above all other accounts. As one user put it: “When did Elon become MySpace Tom?”
+
+For years, politicians and researchers working on the integrity of civic spaces have warned about the risks of social media platforms being used by their owners to change public opinion. On TikTok, the reported existence of a secret “heating button,” which allows the company to boost content delivered via its For you algorithm, was greeted with breathless reporting that it could be used to promote Chinese interests in the West. Fears that the Chinese government might use the app to spy on or collect data from users have led to calls to ban TikTok in the United States and the United Kingdom.
+
+An egregious, highly visible example of this kind of heating of content has just happened. Not on TikTok, on Twitter.
+
+Musk’s decision to manipulate which tweets appear on people’s For You timeline was, according to Platformer, which broke the story, caused by his frustration that his tweet about who he was supporting in the Super Bowl was outperformed by a similar tweet from President Joe Biden. What followed looks like an attempt to change the narrative around Musk through brute force, bombarding users with his tweets by artificially boosting the display of his tweets by a factor of 1,000, enabling the “flooding” of feeds with Musk’s thoughts. Some users say they have still encountered Musk’s tweets despite blocking his account (and many, many have blocked Musk).
+
+“He is manipulating the platform to force engagement centered around him and his content,” says Katja Muñoz, research fellow at the German Council on Foreign Relations. While Musk’s use of algorithmic heating appears to be driven by insecurity, the fact that he can do it is alarming. “Singular acts are funny,” Muñoz says. “But I think it’s important to take a step back and look at the implications of his commitments or actions.”
+
+Muñoz says there’s an inherent conflict between Musk’s interest as a content creator on the platform and his ownership of the company that runs it and a similar conflict between his commercial pressures and his ownership of a “global public square.”
+
+In January, Twitter acquiesced to the Indian government’s demands to censor a BBC documentary about the prime minister, Narendra Modi, despite Musk’s previous support for more absolutist ideas of free speech. India is Twitter’s third-largest market.
+
+“Censoring content on the Modi documentary speaks for my assumption of [his reliance on] foreign investment and his dependence on raw materials,” says Muñoz. “It is highly unlikely that we will ever get hard evidence on whom Musk talks to or whether he is asked to do something, but looking at the visibility and engagement on, or lack of, topics might hint at these dynamics.”

@@ -1,0 +1,57 @@
+The benefits of digital twins, defined by Gartner as “…a digital representation of a real-world entity or system,” are tremendous, particularly when coupled with augmented reality or virtual reality innovations. For example, in the manufacturing sector, new hires could explore digital twins to understand how they work and their connections with other technologies without posing any risk to the physical systems themselves.
+
+With the increased availability of private 5G networks predicted to accelerate digital twin adoption, we can expect to see an increased reliance on the technology in 2023 and beyond.
+
+Digital Twin Security Concerns
+
+As companies plan to up their usage of digital twins, it’s important that the security of these systems be given equal prioritization. After all, while they are a virtual model of a physical technology — digital twins often include back-channel connections and communications with the real environment. And because the digital twin is connected to the network and the physical machine, this creates another vector that hackers are eager to exploit.
+
+Virtual Environments Represent Tangible Security Risks
+
+Digital twins often have production data or access to production systems but aren’t always regarded as being as sensitive as a true production environment. As such, they typically aren’t secured to the same level as their physical counterparts.
+
+For example, let’s look at how employees access digital twins. In a true production environment, access is often initiated via production proxies. A production proxy approach ensures that the login isn’t happening from the employee’s personal computer but rather from a remote desktop or similar system — significantly decreasing the likelihood that any malware on the former machine can access the production system.
+
+This isn’t the case when employees are interacting with a digital twin, and if this access is exploited, hackers can gain entry to the physical system from there.
+
+In a manufacturing setting where IoT sensors are tied into a digital twin system to allow collection of production data, it’s possible that a threat actor could manipulate these sensors to skew the data they are returning.
+
+If those same sensors are being used to control production processes, this could result in actual physical damage. Nuclear power plants offer another, more frightening example of the devastation that could be wrought by exploiting a digital twin. It’s imperative that security teams review and test these systems as they’re implemented to think about these potential scenarios and develop a plan to mitigate them in advance.
+
+More Access, More Problems
+
+Another digital twin security concern is the increased amount of people who have access to the technology. As mentioned above, digital twins are often used to train personnel, meaning that new hires have direct access to these virtual systems — an unlikely scenario in a true production environment.
+
+As with any area of security, the threat surface grows with more points of access and more users with access permissions. These users could succumb to phishing emails and malware attacks or inadvertently introduce vulnerabilities through their own poor security habits — for example, accessing a digital twin from a public network or reusing passwords across multiple accounts.
+
+The Data Dilemma
+
+When designing a digital twin, companies should also consider whether it truly needs real-time data access, as this represents a significant security headache. Whenever possible, organizations should follow an approach where production data is periodically exported to a separate environment utilized by the digital twin.
+
+Another data-related concern is what happens when companies open up digital twin access to multiple third-parties and external groups. For example, sports stadiums increasingly use digital twins for building maintenance and energy optimization.
+
+Looking to the future, some are considering an app-store approach in which this data is shared with promoters, concession providers, team owners, and other stakeholders. As this happens, it’s imperative that security be top of mind, as hackers would be extremely interested in this information.
+
+Without the right parameters — and the correct security systems in place — this scenario could quickly become the Achilles heel of both physical and digital security.
+
+The Flip Side of the Coin: Digital Twins Also Bring Security Benefits
+
+Of course, it’s not all bad news when it comes to digital twins and security. Modeling a network or IT environment with a digital twin could be a great way to conduct more aggressive penetration testing than might be allowed on the actual production network.
+
+When red teams launch attacks against actual systems, they must ensure they aren’t overly destructive and hampering business continuity, but this is no longer a concern when deploying a digital twin.
+
+Companies can conduct real ransomware campaigns in the digital twin environment to test the strength of their response to discover any unknowns and strengthen their defense against an actual attack.
+
+Digital twins can also be used to test physical security. For example, a utility provider could assess what would happen to the grid if a particular substation was attacked, or a sports stadium could identify building design flaws that an on-site attacker might exploit.
+
+Security in Lock-Step
+
+Despite the benefits, companies can’t ignore the potential pitfalls. The best way to combat digital twin security issues is by involving security teams from the start. A security team will help ensure that digital twins are designed with a “least privilege” approach so that they are as far removed as possible from the physical environment.
+
+In addition, once deployed, it’s important to have auditing in place for any connection between physical and virtual systems.
+
+By their very nature, digital twins will always have a wider user pool than their physical counterparts. As such, it’s critical that companies conduct ongoing security education to ensure that the various employee-specific vulnerabilities are mitigated.
+
+Expect new digital twin use cases to emerge across industries throughout 2023. By taking steps to address security vulnerabilities, companies will capitalize on the technology’s benefits without falling victim to the threat actors waiting eagerly in the wings to exploit it.
+
+Featured Image Credit: Photo by Merlin Lightpainting; Thank you!

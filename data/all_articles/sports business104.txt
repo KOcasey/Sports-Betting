@@ -1,0 +1,19 @@
+The fashion retailer JD Sports said the personal and financial information of 10 million customers was potentially accessed by hackers in a cyber-attack.
+
+The company said incident, which affected some online orders made by customers between November 2018 and October 2020, targeted purchases of products of its JD, Size?, Millets, Blacks, Scotts and Millets Sport brands.
+
+The retailer, which has notified the Information Commissioner’s Office about the security breach, said it was contacting affected customers warning them to be aware of potential scams.
+
+“We want to apologise to those customers who may have been affected by this incident,” said Neil Greenhalgh, the JD Sports chief financial officer . “We are advising them to be vigilant about potential scam emails, calls and texts and providing details on how to report these.”
+
+The company said information that may have been accessed by hackers included names, billing and delivery addresses, phone numbers, order details and the final four digits of payment cards of “approximately 10 million unique customers”.
+
+However, JD Sports said the “affected data is limited” as it did not hold full payment data and the company “has no reason to believe that account passwords were accessed”.
+
+JD Sports said it had taken the “necessary immediate steps” to investigate and respond to the incident, including working with cybersecurity experts, and to be aware of potential fraud and phishing attacks and “be on the lookout for any suspicious or unusual communications purporting to be from JD Sports or any of our group brands”.
+
+“We are continuing with a full review of our cybersecurity in partnership with external specialists following this incident,” said Greenhalgh. “Protecting the data of our customers is an absolute priority for JD.”
+
+skip past newsletter promotion Sign up to TechScape Free weekly newsletter Alex Hern's weekly dive in to how technology is shaping our lives Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+This month Royal Mail revealed it had been hit by a ransomware attack by a criminal group, which threatened to publish the stolen information online, and said it could not process international parcel and letter deliveries.

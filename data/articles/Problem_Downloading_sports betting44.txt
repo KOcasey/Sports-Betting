@@ -1,0 +1,2 @@
+Error: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.si.com/betting/2023/01/20/odds-picks-ufc-283-odds-glover-teixeira-jamahal-hill on URL https://www.si.com/betting/2023/01/20/odds-picks-ufc-283-odds-glover-teixeira-jamahal-hill
+Problem URL: https://www.si.com/betting/2023/01/20/odds-picks-ufc-283-odds-glover-teixeira-jamahal-hill

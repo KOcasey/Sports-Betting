@@ -1,0 +1,2 @@
+Error: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.si.com/betting/2023/01/18/odds-lines-spread-pick-jaguars-chiefs-afc-divisional-round on URL https://www.si.com/betting/2023/01/18/odds-lines-spread-pick-jaguars-chiefs-afc-divisional-round
+Problem URL: https://www.si.com/betting/2023/01/18/odds-lines-spread-pick-jaguars-chiefs-afc-divisional-round

@@ -1,0 +1,2 @@
+Error: Article `download()` failed with 403 Client Error: Forbidden for url: https://athlonsports.com/nfl/report-nbc-makes-decision-on-tony-dungys-status-following-controversial-tweet on URL https://athlonsports.com/nfl/report-nbc-makes-decision-on-tony-dungys-status-following-controversial-tweet
+Problem URL: https://athlonsports.com/nfl/report-nbc-makes-decision-on-tony-dungys-status-following-controversial-tweet

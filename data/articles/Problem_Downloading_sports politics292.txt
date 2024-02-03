@@ -1,0 +1,2 @@
+Error: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2023-01-23/craig-fosters-explains-determination-to-make-world-better/101885018 on URL https://www.abc.net.au/news/2023-01-23/craig-fosters-explains-determination-to-make-world-better/101885018
+Problem URL: https://www.abc.net.au/news/2023-01-23/craig-fosters-explains-determination-to-make-world-better/101885018

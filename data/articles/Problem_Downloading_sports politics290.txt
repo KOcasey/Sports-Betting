@@ -1,0 +1,2 @@
+Error: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.si.com/nba/2023/01/27/steve-kerr-warriors-white-house-gun-violence-daily-cover on URL https://www.si.com/nba/2023/01/27/steve-kerr-warriors-white-house-gun-violence-daily-cover
+Problem URL: https://www.si.com/nba/2023/01/27/steve-kerr-warriors-white-house-gun-violence-daily-cover

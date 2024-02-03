@@ -1,0 +1,16 @@
+rules, support, confidence, coverage, lift, count
+5, {46-60  degrees,Total of  Over 55} => {Under}, 0.0012987012987013, 1, 0.0012987012987013, 1.94138039710054, 8
+7, {0-10  degrees,grass,Light Wind} => {Under}, 0.0012987012987013, 1, 0.0012987012987013, 1.94138039710054, 8
+8, {46-60  degrees,grass,Strong Wind} => {Under}, 0.0012987012987013, 1, 0.0012987012987013, 1.94138039710054, 8
+9, {grass,Strong Wind,Total Team ELO Rank of  6-10} => {Under}, 0.00113636363636364, 1, 0.00113636363636364, 1.94138039710054, 7
+10, {non_div_game,Strong Wind,Total Team ELO Rank of  1-5} => {Under}, 0.00113636363636364, 1, 0.00113636363636364, 1.94138039710054, 7
+12, {grass,Strong Wind,Total QB ELO Rank of  1-5} => {Under}, 0.0012987012987013, 1, 0.0012987012987013, 1.94138039710054, 8
+17, {grass,negative_qb_elo,Strong Wind} => {Under}, 0.00146103896103896, 1, 0.00146103896103896, 1.94138039710054, 9
+26, {Bob McElwee,div_game,Total QB ELO Rank of  1-5} => {Under}, 0.00113636363636364, 1, 0.00113636363636364, 1.94138039710054, 7
+27, {46-60  degrees,Ronald Torbert,Total Team ELO Rank of  1-5} => {Under}, 0.00113636363636364, 1, 0.00113636363636364, 1.94138039710054, 7
+31, {Land Clark,non_div_game,Total Away Offense Rank of  1-5} => {Under}, 0.00113636363636364, 1, 0.00113636363636364, 1.94138039710054, 7
+35, {Adrian Hill,non_div_game,Total Away Defense Rank of  1-5} => {Under}, 0.00113636363636364, 1, 0.00113636363636364, 1.94138039710054, 7
+38, {Johnny Grier,Total Away Offense Rank of  16-20,Total of  40-50} => {Under}, 0.0012987012987013, 1, 0.0012987012987013, 1.94138039710054, 8
+39, {Alberto Riveron,positive_qb_elo,Total Home Defense Rank of  6-10} => {Under}, 0.00113636363636364, 1, 0.00113636363636364, 1.94138039710054, 7
+40, {Alberto Riveron,Total Home Defense Rank of  6-10,Total of  40-50} => {Under}, 0.00162337662337662, 1, 0.00162337662337662, 1.94138039710054, 10
+42, {46-60  degrees,positive_qb_elo,Total of  Over 55} => {Under}, 0.00113636363636364, 1, 0.00113636363636364, 1.94138039710054, 7
