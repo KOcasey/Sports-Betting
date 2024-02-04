@@ -18,7 +18,7 @@ rf_df = pd.read_csv('C:/Users/casey/OneDrive/Documents/Data_Science/Projects/Spo
 ## SELECT COLUMNS FOR RANDOM FOREST MODELING
 
 cols = ['total_result', 'total_line', 'temp', 'wind', 'total_qb_elo', 'team_elo_diff',
-        'qb_elo_diff', 'avg_home_total_yards', 'avg_away_total_yards', 
+        'qb_elo_diff', 'avg_home_total_yards', 'avg_away_total_yards',
         'avg_home_total_yards_against', 'avg_away_total_yards_against', 'roof', 'surface',
         'div_game']
 
