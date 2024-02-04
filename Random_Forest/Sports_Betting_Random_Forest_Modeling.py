@@ -7,7 +7,7 @@ Created on Sun Jun 18 14:46:30 2023
 
 ## LOAD LIBRARIES
 # Set seed for reproducibility
-import random; 
+import random;
 random.seed(53)
 import pandas as pd
 import numpy as np
@@ -19,9 +19,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV # RandomizedSearchCV coming soon
 from sklearn.model_selection import KFold, cross_val_score
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
-
-# Import Bayesian Optimization
-from hyperopt import tpe, STATUS_OK, Trials, hp, fmin, STATUS_OK, space_eval # coming soon
 
 # Import visualization
 import scikitplot as skplt
@@ -91,7 +88,7 @@ def objective(trial, X, y):
         'weight_1': trial.suggest_float('weight_1', 0.1, 4),
     }
 
-   
+
 
     # Fit the model
 
@@ -118,21 +115,21 @@ study = optuna.create_study(
 )
 
 # study.optimize(lambda trial: objective(trial, X_train, y_train, X_test, y_test, score_function), n_trials=100)
-study.optimize(lambda trial: objective(trial, X, y), n_trials=80)
+study.optimize(lambda trial: objective(trial, X, y), n_trials=100)
 
 print('Best Trial: ', study.best_trial)
 print('Best Params: ',study.best_params)
 best_params = study.best_params
 
 # ------------------------------------------------------------------------------------------------ #
-## SAVE BEST MODEL
-RF_Classifier = RandomForestClassifier(n_estimators=167, max_depth=11, min_samples_split=8, min_samples_leaf=8, bootstrap=True,
+## SAVE BEST MODE
+RF_Classifier = RandomForestClassifier(n_estimators=87, max_depth=11, min_samples_split=7, min_samples_leaf=8, bootstrap=False,
                                         class_weight={0:best_params['weight_0'], 1:best_params['weight_1']}
                                         )
 
 RF_Classifier.fit(X_train, y_train)
-pickle.dump(RF_Classifier, open('C:/Users/casey/OneDrive/Documents/Data_Science/Projects/Sports-Betting/saved_models/rf_model.pkl', open='wb'))
-                                             
+pickle.dump(RF_Classifier, open('C:/Users/casey/OneDrive/Documents/Data_Science/Projects/Sports-Betting/saved_models/rf_model.pkl','wb'))
+
 
 # ------------------------------------------------------------------------------------------------ #
 ## GRIDSEARCHCV HYPERPARAMETER TUNING
@@ -188,13 +185,13 @@ print(roc_auc_score(y_test, y_proba[:, 1]))
 RF_Classifier = RandomForestClassifier(n_estimators=167, max_depth=11, min_samples_split=8, min_samples_leaf=8, bootstrap=True,
                                         class_weight={0:best_params['weight_0'], 1:best_params['weight_1']}
                                         )
-                                                      
+
 
 kf = KFold(n_splits=5, shuffle=True, random_state=1)
 
 cv_score = cross_val_score(RF_Classifier,
-                           X_train, y_train, 
-                           cv=kf, 
+                           X_train, y_train,
+                           cv=kf,
                            scoring=make_scorer(f1_score, average='macro')
                            )
 
@@ -202,7 +199,7 @@ fold = 1
 for score in cv_score:
     print('Fold ' + str(fold) + ' : ' + str(round(score, 2)))
     fold += 1
-    
+
 print('The mean accuracy over 5 folds is: ' + str(cv_score.mean()))
 
 # ------------------------------------------------------------------------------------------------ #
@@ -210,11 +207,11 @@ print('The mean accuracy over 5 folds is: ' + str(cv_score.mean()))
 feat_dict= {}
 for col, val in sorted(zip(X_train.columns, RF_Classifier.feature_importances_),key=lambda x:x[1],reverse=True):
   feat_dict[col]=val
-  
+
 feat_df = pd.DataFrame({'Feature':feat_dict.keys(),'Importance':feat_dict.values()})
 
 ## PLOT FEATURE IMPORTANCE
-values = feat_df.Importance    
+values = feat_df.Importance
 idx = feat_df.Feature
 plt.figure(figsize=(10,8))
 clrs = ['green' if (x < max(values)) else 'red' for x in values ]
@@ -249,8 +246,8 @@ print(roc_auc_score(y_test, y_proba[:, 1]))
 ## VISUALIZE A TREE
 # .estimators_[0] is the first tree
 fig = plt.figure(figsize=(25,20))
-_ = tree.plot_tree(RF_Classifier.estimators_[0], 
-                   feature_names=X.columns,  
+_ = tree.plot_tree(RF_Classifier.estimators_[0],
+                   feature_names=X.columns,
                    class_names=['0','1'],
                    filled=True)
 
