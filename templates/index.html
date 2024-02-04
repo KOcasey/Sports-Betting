@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Health Expense</title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
+</head>
+<body style="background: rgb(252, 250, 250);">
+  <div class="login">
+   <h1 style="text-align:center">Sports Betting Total Result Predictor</h1>
+    <form action="{{ url_for('predict')}}" method="post">
+      <label for="total_line" colo>Total Line:  </label>
+      <input type="number" name="total_line" placeholder="total_line" required="required">
+      <br>
+      <br>
+      <label for="temp">Predicted Gametime Temperature:  </label>
+      <input type="number" name="temp" placeholder="temp" required="required">
+      <br>
+      <br>
+      <label for="wind">Predicted Gametime Wind Speed (mph):  </label>
+      <input type="number" name="wind" placeholder="wind" required="required">
+      <br>
+      <br>
+      <label for="total_qb_elo">Total QB ELO:  </label>
+      <input type="number" name="total_qb_elo" placeholder="total_qb_elo" required="required">
+      <br>
+      <br>
+      <label for="team_elo_diff">Team ELO Difference:  </label>
+      <input type="number" name="team_elo_diff" placeholder="team_elo_diff" required="required">
+      <br>
+      <br>
+      <label for="qb_elo_diff">QB ELO Difference:  </label>
+      <input type="number" name="qb_elo_diff" placeholder="qb_elo_diff" required="required">
+      <br>
+      <br>
+      <label for="avg_home_total_yards">Average Home Team Total Yards Per Game:  </label>
+      <input type="number" name="avg_home_total_yards" placeholder="avg_home_total_yards" required="required">
+      <br>
+      <br>
+      <label for="avg_awy_total_yards">Average Away Team Total Yards Per Game:  </label>
+      <input type="number" name="avg_away_total_yards" placeholder="avg_away_total_yards" required="required">
+      <br>
+      <br>
+      <label for="avg_home_total_yards_against">Average Home Team Total Yards Against Per Game:  </label>
+      <input type="number" name="avg_home_total_yards_against" placeholder="avg_home_total_yards_against" required="required">
+      <br>
+      <br>
+      <label for="avg_away_total_yards_against">Average Away Team Total Yards Against Per Game:  </label>
+      <input type="number" name="avg_away_total_yards_against" placeholder="avg_away_total_yards_against" required="required">
+      <br>
+      <br>
+      <label for="div_game">Is This a Divisional Game?:  </label>
+      <select id="div_game" name="div_game" placeholder="div_game", required="required">
+        <option value="0">Yes</option>
+        <option value="1">No</option>
+      </select>
+      <br>
+      <br>
+      <label for="roof_type">Stadium Roof Type:  </label>
+      <select id="roof_type" name="roof_type", placeholder="roof_type", required="required">
+        <option value="dome">Dome</option>
+        <option value="outdoors">Outdoors</option>
+        <option value="open">Open</option>
+        <option value="closed">Closed</option>
+      </select>
+      <br>
+      <br>
+      <label for="surface_type">Field Surface Type:  </label>
+      <select id="surface_type" name="surface_type", placeholder="surface_type", required="surface_type">
+        <option value="astroplay">Astroplay</option>
+        <option value="astroturf">Astroturf</option>
+        <option value="dessograss">Dessograss</option>
+        <option value="fieldturf">Fieldturf</option>
+        <option value="grass">Grass</option>
+        <option value="matrixturf">Matrixturf</option>
+        <option value="sportturf">Sportturf</option>
+      </select>
+      <br>
+      <br>
+      <button type="submit" class="btn btn-primary btn-block btn-large">Predict Total Result</button>
+    </form>
+    <br>
+    <br>
+    <h2>
+    {{ prediction_text }}
+    </h2>
+  </div>
+</body>
+</html>
