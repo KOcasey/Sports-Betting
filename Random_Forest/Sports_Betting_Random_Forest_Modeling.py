@@ -29,11 +29,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn import tree
 
+import pickle
+
 import optuna
 
 # ------------------------------------------------------------------------------------------------ #
 ## LOAD DATA
-rf_df = pd.read_csv('C:/Users/casey/OneDrive/Documents/MSDS_Courses/Spring_2023/Machine_Learning/Random_Forest/prepped_data/gbg_rf.csv')
+rf_df = pd.read_csv('C:/Users/casey/OneDrive/Documents/Data_Science/Projects/Sports-Betting/Random_Forest/prepped_data/gbg_rf.csv')
 rf_df.info()
 
 # ------------------------------------------------------------------------------------------------ #
@@ -129,7 +131,7 @@ RF_Classifier = RandomForestClassifier(n_estimators=167, max_depth=11, min_sampl
                                         )
 
 RF_Classifier.fit(X_train, y_train)
-pickle.dump(RF_Classifier, open(''))
+pickle.dump(RF_Classifier, open('C:/Users/casey/OneDrive/Documents/Data_Science/Projects/Sports-Betting/saved_models/rf_model.pkl', open='wb'))
                                              
 
 # ------------------------------------------------------------------------------------------------ #
