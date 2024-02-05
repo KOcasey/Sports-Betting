@@ -63,7 +63,7 @@ jobs:
         curl http://127.0.0.1:5000/ | grep "template api"
   DeployDev:
     name: Deploy to Dev
-    # if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request'
     needs: [Test-Local]
     runs-on: ubuntu-latest
     environment:
