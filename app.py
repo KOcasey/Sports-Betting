@@ -75,5 +75,5 @@ def predict():
         return render_template("index.html", prediction_text='The Predicted Total Result is: ' + str(prediction))
 
 if __name__ == "__main__":
-    print('Worked')
+    print('Test')
     app.run(debug=True, host='0.0.0.0', port=8000)
