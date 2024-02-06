@@ -91,7 +91,7 @@ jobs:
            "
             cd ${APP_DIR} &&
             git pull &&
-            echo -e ${USER_PASSWORD}\n | sudo -S systemctl restart ${SERVICE} "
+            echo -e ${USER_PASSWORD}\n | sudo -S systemctl restart ${SERVICE_NAME} "
   Test-Remote:
     name: Test Remote Deployment
     needs: [DeployDev]
