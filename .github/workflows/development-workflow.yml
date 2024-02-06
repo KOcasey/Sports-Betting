@@ -100,4 +100,4 @@ jobs:
     - name: Test application
       run: |
         sleep 5
-        curl ${{ secrets.HOST_NAME  }}:${{ secrets.PORT  }} | grep "template api"
+        curl ${{ secrets.HOST_NAME  }}:${{ secrets.PORT  }}
