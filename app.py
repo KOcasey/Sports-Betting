@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 import pickle
 
 app = Flask(__name__)
@@ -6,7 +6,8 @@ model = pickle.load(open('saved_models/rf_model.pkl','rb')) #read mode
 
 @app.route("/")
 def home():
-    return render_template('index.html')
+    #return render_template('index.html')
+    return jsonify({'hello': 'from template api auto-deployed with GitHub actions!'}), 200
 
 @app.route("/predict", methods=['GET','POST'])
 def predict():
