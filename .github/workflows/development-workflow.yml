@@ -89,8 +89,8 @@ jobs:
           ssh -o StrictHostKeyChecking=no -i private_key ${USER_NAME}@${HOST_NAME} "
             cd ${APP_DIR} &&
             git checkout development &&
-            git pull "
-      #echo -e ${USER_PASSWORD}\n | sudo -S systemctl restart ${SERVICE_NAME}
+            git pull
+            echo -e ${USER_PASSWORD} | sudo -S systemctl restart ${SERVICE_NAME} "
   Test-Remote:
     name: Test Remote Deployment
     needs: [DeployDev]
