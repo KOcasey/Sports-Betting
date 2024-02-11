@@ -11,43 +11,43 @@
    <h1 style="text-align:center">Sports Betting Total Result Predictor</h1>
     <form action="{{ url_for('predict')}}" method="post">
       <label for="total_line" colo>Total Line:  </label>
-      <input type="number" name="total_line" placeholder="total_line" required="required">
+      <input type="number", step="0.5", name="total_line" placeholder="total_line" required="required">
       <br>
       <br>
       <label for="temp">Predicted Gametime Temperature:  </label>
-      <input type="number" name="temp" placeholder="temp" required="required">
+      <input type="number", step="0.01", name="temp" placeholder="temp" required="required">
       <br>
       <br>
       <label for="wind">Predicted Gametime Wind Speed (mph):  </label>
-      <input type="number" name="wind" placeholder="wind" required="required">
+      <input type="number", step="0.01", name="wind" placeholder="wind" required="required">
       <br>
       <br>
       <label for="total_qb_elo">Total QB ELO:  </label>
-      <input type="number" name="total_qb_elo" placeholder="total_qb_elo" required="required">
+      <input type="number", step="0.01", name="total_qb_elo" placeholder="total_qb_elo" required="required">
       <br>
       <br>
       <label for="team_elo_diff">Team ELO Difference:  </label>
-      <input type="number" name="team_elo_diff" placeholder="team_elo_diff" required="required">
+      <input type="number", step="0.01", name="team_elo_diff" placeholder="team_elo_diff" required="required">
       <br>
       <br>
       <label for="qb_elo_diff">QB ELO Difference:  </label>
-      <input type="number" name="qb_elo_diff" placeholder="qb_elo_diff" required="required">
+      <input type="number", step="0.01", name="qb_elo_diff" placeholder="qb_elo_diff" required="required">
       <br>
       <br>
       <label for="avg_home_total_yards">Average Home Team Total Yards Per Game:  </label>
-      <input type="number" name="avg_home_total_yards" placeholder="avg_home_total_yards" required="required">
+      <input type="number", step="0.01", name="avg_home_total_yards" placeholder="avg_home_total_yards" required="required">
       <br>
       <br>
       <label for="avg_awy_total_yards">Average Away Team Total Yards Per Game:  </label>
-      <input type="number" name="avg_away_total_yards" placeholder="avg_away_total_yards" required="required">
+      <input type="number", step="0.01", name="avg_away_total_yards" placeholder="avg_away_total_yards" required="required">
       <br>
       <br>
       <label for="avg_home_total_yards_against">Average Home Team Total Yards Against Per Game:  </label>
-      <input type="number" name="avg_home_total_yards_against" placeholder="avg_home_total_yards_against" required="required">
+      <input type="number", step="0.01", name="avg_home_total_yards_against" placeholder="avg_home_total_yards_against" required="required">
       <br>
       <br>
       <label for="avg_away_total_yards_against">Average Away Team Total Yards Against Per Game:  </label>
-      <input type="number" name="avg_away_total_yards_against" placeholder="avg_away_total_yards_against" required="required">
+      <input type="number", step="0.01", name="avg_away_total_yards_against" placeholder="avg_away_total_yards_against" required="required">
       <br>
       <br>
       <label for="div_game">Is This a Divisional Game?:  </label>
