@@ -6,8 +6,8 @@ model = pickle.load(open('saved_models/rf_model.pkl','rb')) #read mode
 
 @app.route("/")
 def home():
-    #return render_template('index.html')
-    return jsonify({'hello': 'from new edit template api auto-deployed with GitHub actions!'}), 200
+    return render_template('index.html')
+    #return jsonify({'hello': 'from new edit template api auto-deployed with GitHub actions!'}), 200
 
 @app.route("/predict", methods=['GET','POST'])
 def predict():
